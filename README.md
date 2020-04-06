@@ -40,9 +40,6 @@ Por otro lado, mi  **análisis** ha consistido en categorizar los meses en tempo
 
 
 
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
 
   
 
