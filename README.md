@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="250" height="250" src=INPUT/labs.png?raw=true "Title">
+  <img width="100" height="100" src=INPUT/labs.png?raw=true "Title">
 </p>
 
 
@@ -35,14 +35,14 @@ Por otro lado, el  **análisis** ha consistido en categorizar los meses en tempo
 
 
 <p align="center">
-  <img width="460" height="300" src=INPUT/grafico?raw=true "Title">
+  <img width="460" height="300" src=INPUT/grafico.png?raw=true "Title">
 </p>
 
 
 
 
 <p align="center">
-  <img width="600" height="300" src=INPUT/image.jpg?raw=true "Title">
+  <img width="700" height="300" src=INPUT/image.jpg?raw=true "Title">
 </p>
 
 
