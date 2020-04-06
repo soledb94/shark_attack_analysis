@@ -1,6 +1,6 @@
 # SHARK ATTACK ANALYSIS
 
-                       ![labs](INPUT/labs.png?raw=true "Title")
+......................![labs](INPUT/labs.png?raw=true "Title")
 
 
 Bien es sabido que el estado de Florida, USA, destaca por un clima cálido, con altas temperaturas y sol a lo largo del año. Aunque los inviernos son mas fríos, siguen siendo temperaturas suaves. 
@@ -11,7 +11,7 @@ Para descubrir si mi hipótesis tiene sentido, he realizado un exhaustivo estudi
 
 ***
 
-Para la limpieza del Dataset he realizado las siguientes técnicas:
+Para la **limpieza** del Dataset he realizado las siguientes técnicas:
 
 - REDUCCIÓN DEL NÚMERO DE COLUMNAS A LAS QUE SON INTERESANTES PARA EL ESTUDIO
 - COMPROBACIÓN DE VALORES NULOS EN LA COLUMNA "DATE" Y ELIMININACIÓN DE ESTOS
@@ -24,7 +24,7 @@ Para la limpieza del Dataset he realizado las siguientes técnicas:
 
 ***
 
-El análisis ha consistido en categorizar los meses en temporada Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores he llegado a la conclusión que *mi hipótesis se confirmaba*.
+El **análisis** ha consistido en categorizar los meses en temporada Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores he llegado a la conclusión que *mi hipótesis se **confirmaba**.
 
 
 ![image.jpg](INPUT/grafico.jpg?raw=true "Title")
