@@ -1,7 +1,7 @@
 # SHARK ATTACK ANALYSIS
 
 <p align="center">
-  <![labs](INPUT/labs.png?raw=true "Title")>
+![imagen](INPUT/labs.png)
 </p>
 
 
@@ -27,10 +27,14 @@ Para la **limpieza** del Dataset he realizado las siguientes técnicas:
 
 ***
 
-Por otro lado, mi  **análisis** ha consistido en categorizar los meses en temporada Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores he llegado a la conclusión que mi hipótesis se **confirmaba**.
+Por otro lado, el  **análisis** ha consistido en categorizar los meses en temporadas Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores, he llegado a la conclusión que mi hipótesis se **confirma**.
 
 
-![ScreenShot](INPUT/grafico?raw=true "Title")
+
+<p align="center">
+![screenshoot](INPUT/grafico)
+</p>
+
 
 
 
