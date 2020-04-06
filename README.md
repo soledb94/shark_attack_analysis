@@ -1,6 +1,5 @@
-<p align="center">
 # SHARK ATTACK ANALYSIS
-</p>
+
 
 <p align="center">
   <img width="100" height="100" src=INPUT/labs.png?raw=true "Title">
@@ -22,27 +21,27 @@ Para la **limpieza** del Dataset he realizado las siguientes técnicas:
 - COMPROBACIÓN DE VALORES NULOS EN LA COLUMNA "DATE" Y ELIMININACIÓN DE ESTOS
 - PRIMER BARRIDO DE REGISTROS DUPLICADOS¶
 - ESTUDIO DE VALORES NULOS A LO LARGO DEL DATAFRAME¶
-- ELIMINACIÓN DE LA COLUMNA DE "LOCATION", YA QUE NO SERÁ NECESARIA EN ADELANTE
-- REDUCCIÓN EL DATAFRAME A LAS ACTIVIDAD DE "SURFING" EN FLORIDA (USA)
+- ELIMINACIÓN DE LA COLUMNA DE "LOCATION", YA QUE NO ES NECESARIA EN ADELANTE
+- REDUCCIÓN DEL DATAFRAME A LAS ACTIVIDAD DE "SURFING" EN FLORIDA (USA)
 - TRATAMIENTO DEL CAMPO "DATE", PARA EXTRAER LOS MESES 
-- ELIMINACIÓN LA COLUMNA "DATE", YA QUE NO SERÁ NECESARIA EN ADELANTE
+- ELIMINACIÓN LA COLUMNA "DATE", YA QUE NO ES NECESARIA EN ADELANTE
 
 ***
 
-Por otro lado, el  **análisis** ha consistido en categorizar los meses en temporadas Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores, he llegado a la conclusión que mi hipótesis se **confirma**.
+Por otro lado, el  **análisis** ha consistido en categorizar los meses en temporadas Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores, he llegado a la conclusión que la hipótesis se **confirma**.
 
 
 
 
 <p align="center">
-  <img width="460" height="300" src=INPUT/grafico.png?raw=true "Title">
+  <img width="461" height="450" src=INPUT/grafico.png?raw=true "Title">
 </p>
 
 
 
 
 <p align="center">
-  <img width="700" height="300" src=INPUT/image.jpg?raw=true "Title">
+  <img width="800" height="300" src=INPUT/image.jpg?raw=true "Title">
 </p>
 
 
