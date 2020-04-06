@@ -1,6 +1,9 @@
 # SHARK ATTACK ANALYSIS
 
-......................![labs](INPUT/labs.png?raw=true "Title")
+<p align="center">
+  <![labs](INPUT/labs.png?raw=true "Title")>
+</p>
+
 
 
 Bien es sabido que el estado de Florida, USA, destaca por un clima cálido, con altas temperaturas y sol a lo largo del año. Aunque los inviernos son mas fríos, siguen siendo temperaturas suaves. 
@@ -24,19 +27,25 @@ Para la **limpieza** del Dataset he realizado las siguientes técnicas:
 
 ***
 
-El **análisis** ha consistido en categorizar los meses en temporada Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores he llegado a la conclusión que *mi hipótesis se **confirmaba**.
+Por otro lado, mi  **análisis** ha consistido en categorizar los meses en temporada Primavera-Verano y Otoño-Invierno. Representando la suma de estos valores he llegado a la conclusión que mi hipótesis se **confirmaba**.
 
 
-![image.jpg](INPUT/grafico.jpg?raw=true "Title")
-
-
-
+![ScreenShot](INPUT/grafico?raw=true "Title")
 
 
 
+<p align="center">
+  <img width="460" height="300" src=INPUT/image.jpg?raw=true "Title">
+</p>
 
 
-![image.jpg](INPUT/image.jpg?raw=true "Title")
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+  
+
 
 
 
