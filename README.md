@@ -2,6 +2,7 @@
 
 <p align="center">
 ![imagen](INPUT/labs.png)
+Format: ![Alt Text](url)
 </p>
 
 
@@ -33,6 +34,7 @@ Por otro lado, el  **análisis** ha consistido en categorizar los meses en tempo
 
 <p align="center">
 ![screenshoot](INPUT/grafico)
+Format: ![Alt Text](url)
 </p>
 
 
